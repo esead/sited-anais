@@ -10,17 +10,17 @@ repo_name: Projeto GitHub
 repo_url: https://seadufrb.github.io/ebooks/
 edit_uri: ''
 pages:
-    - Home: index.md
-    - Anais:
-        - 'Capa': ii-sited-anais/capa.md
-        - 'Comissão Organizadora': ii-sited-anais/comissao-organizadora.md
-        - 'Comitê Científico': ii-sited-anais/comite-cientifico.md
-        - 'Licença': ii-sited-anais/creative-commons.md
-        - 'Eixo I': ii-sited-anais/eixo-1.md
-        - 'Trabalho 1': ii-sited-anais/trabalho-1.md
-        - 'Trabalho 2': ii-sited-anais/trabalho-2.md
-        - 'Trabalho 3': ii-sited-anais/trabalho-3.md
-        - 'Capa fundo': ii-sited-anais/capa-fundo.md
+  - Home: index.md
+  - Anais:
+    - 'Capa': ii-sited-anais/capa.md
+    - 'Comissão Organizadora': ii-sited-anais/comissao-organizadora.md
+    - 'Comitê Científico': ii-sited-anais/comite-cientifico.md
+    - 'Licença': ii-sited-anais/creative-commons.md
+    - 'Eixo I': ii-sited-anais/eixo-1.md
+    - 'Trabalho 1': ii-sited-anais/trabalho-1.md
+    - 'Trabalho 2': ii-sited-anais/trabalho-2.md
+    - 'Trabalho 3': ii-sited-anais/trabalho-3.md
+    - 'Capa fundo': ii-sited-anais/capa-fundo.md
 theme:
   name: 'material'
   language: 'pt'
