@@ -1,0 +1,67 @@
+site_name: SITED ANAIS
+site_url: https://seadufrb.github.io/sited-anais
+site_description: 'A web reference of common baseball statistics.'
+copyright: '&copy; 2019 Superintendência de Educação Aberta e a Distância - SEAD/UFRB.'
+google_analytics:
+    - 'UA-141369154-1'
+    - 'auto'
+site_author: Carlos André
+repo_name: Projeto GitHub
+repo_url: https://seadufrb.github.io/ebooks/
+edit_uri: ''
+pages:
+    - Home: index.md
+    - Anais:
+        - 'Capa': ii-sited-anais/capa.md
+        - 'Comissão Organizadora': ii-sited-anais/comissao-organizadora.md
+        - 'Comitê Científico': ii-sited-anais/comite-cientifico.md
+        - 'Licença': ii-sited-anais/creative-commons.md
+        - 'Eixo I': ii-sited-anais/eixo-1.md
+        - 'Trabalho 1': ii-sited-anais/trabalho-1.md
+        - 'Trabalho 2': ii-sited-anais/trabalho-2.md
+        - 'Trabalho 3': ii-sited-anais/trabalho-3.md
+        - 'Capa fundo': ii-sited-anais/capa-fundo.md
+theme:
+  name: 'material'
+  language: 'pt'
+  logo: img/logo.png
+  palette:
+        primary: 'Teal'
+        accent: 'Teal'
+  feature:
+    tabs: true
+extra_javascript:
+  - 'javascripts/extra.js'
+  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+markdown_extensions:
+  - admonition
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+site_dir: build
+
+# Social
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/seadufrb/'
+    - type: 'facebook'
+      link: 'https://www.facebook.com/seadufrb/'
+    - type: 'instagram'
+      link: 'https://www.instagram.com/ufrb_sead/'
+    - type: 'youtube'
+      link: 'https://www.youtube.com/sead_ufrb/'
+
