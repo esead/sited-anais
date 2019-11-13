@@ -1,5 +1,5 @@
 
-# Autores 
+# **Comitê Científico**
 
 <style>
 
@@ -64,33 +64,30 @@ img {
 </style>
 
 <center> 
-<div class="card">
-	<center> 
-  <img src="../imagens/odair.png" alt="Avatar" style="width:40%">
-    </center>
-  <div class="container">
-    <h4 align="center"><b>Oldair Vinhas Costa</b></h4> 
-    <p><button class="button"><a href="http://lattes.cnpq.br/0146226390364619" target="_blank"><span style="color:#FFF"> Lattes </a></span></button></p> 
-  </div>
-</div>
+<p>Universidade Federal do Recôncavo da Bahia</p>
+Superintendência de Educação Aberta e Digital
+<p>Anais do II Simpósio Internacional de Tecnologias e
+Educação Digital</p>
+
+<p><strong>Comitê Científico:</strong></p>
+
+
+<p>Dr. Adriano Dantas de Oliveira (UFRB)</p>
+<p>Dr. António Moreira (Universidade Aberta Portugal)</p>
+<p>Dr. Ariston de Lima Cardoso (UFRB)</p>
+<p>Dra. Cíntia Mota Cardeal (UFRB)</p>
+<p>Dr. Eniel do Espírito Santo (UFRB)</p>
+<p>Dra. Katia Silene Ferreira Lima Rocha (UFRB)</p>
+<p>Dra. Rosa Candida Cordeiro (UFRB)</p>
+<p>Dra. Sara Dias-Trindade (Universidade de Coimbra)</p>
+<p>Dra. Maria da Conceição Costa Rivemales (UFRB)</p>
+<p>Dra. Mary Valda Souza Sales (UNEB)</p>
+
 </center> 
 
 
-<center> 
-<div class="card">
-	<center> 
-  <img src="../imagens/marcelo.gif" alt="Avatar" style="width:40%">
-    </center>
-  <div class="container">
-    <h4 align="center"><b>Marcelo Henrique Siqueira de Araújo</b></h4> 
-    <p><button class="button"><a href="http://lattes.cnpq.br/1553852645715337" target="_blank"><span style="color:#FFF"> Lattes </a></span></button></p> 
-  </div>
-</div>
-</center> 
 
-
-<center><h2><strong>Leitura de Ambientes da Mineração</strong></h2></center>
 <center>Cruz das Almas - BA </center>
-<center>2018 </center>
+<center>2019 </center>
 
 

@@ -102,110 +102,11 @@ img {
 </style>
 
 
-
-<div id="example3">
-
-  <h1> II Simpósio Internacional de Tecnologias e Educação Digital - Anais</h1>
-
-
-<center> 
-  <div class="column">
-     <div class="card">
-     <a href="https://seadufrb.github.io/ebooks/leitura-de-ambientes-da-mineracao/capa/"><img src="https://seadufrb.github.io/ebooks/img/capa.jpg" alt="Avatar" style="width:100%"></a>
-     </div>
-  </div>
-
-<div class="column">
-    <div class="card">
-     <a href="https://seadufrb.github.io/ebooks/o-papel-do-fiscal-na-administracao-publica/capa/"><img src="https://seadufrb.github.io/ebooks/img/capafrente.jpg" alt="Avatar" style="width:100%"></a>
-    </div>
-</div>
-
-<br>
-<p style="color:white;">.</p>
-
-  <div class="column">
-     <div class="card">
-     <a href="https://seadufrb.github.io/ebooks/guia-de-producao-de-material-didatico/capa/"><img src="https://seadufrb.github.io/ebooks/img/capa-guia.jpg" alt="Avatar" style="width:100%"></a>
-     </div>
-  </div>
-
-<div class="column">
-    <div class="card">
-     <a href="https://seadufrb.github.io/ebooks/tecnologias-educacao-digital/capa/"><img src="https://seadufrb.github.io/ebooks/img/capa-tecnologias.jpg" alt="Avatar" style="width:100%"></a>
-    </div>
-</div>
-
-<p style="color:white;"> .</p>
-</center>
-
-</div>
+[![Material for MkDocs](https://seadufrb.github.io/sited-anais/ii-sited-anais/imagens/capa-anais.png)](https://seadufrb.github.io/sited-anais/ii-sited-anais/imagens/capa-anais.png)
 
 
 
 
-<!--
-
-<div class="card">
-  <a href="https://seadufrb.github.io/ebooks/Leitura%20de%20Ambientes%20da%20Minera%C3%A7%C3%A3o/capa/"><img src="https://seadufrb.github.io/ebooks/img/capa.jpg" alt="Avatar" style="width:100%"></a>
-  <div class="container">
-    <h4><b>Jane Doe</b></h4> 
-    <p>Interior Designer</p> 
-  </div>
-</div>
-
-<div class="card">
-  <a href="https://seadufrb.github.io/ebooks/Leitura%20de%20Ambientes%20da%20Minera%C3%A7%C3%A3o/capa/"><img src="https://seadufrb.github.io/ebooks/img/capa.jpg" alt="Avatar" style="width:100%"></a>
-  <div class="container">
-    <h4><b>Jane Doe</b></h4> 
-    <p>Interior Designer</p> 
-  </div>
-</div>
-
--->
 
 
 
-<!--
-!!! info "Informações de Contato"
-
-  
-
-
-!!! warning "MkDocs 1.0 compatibility"
-
-    While MkDocs 1.0 supports prebuilding the search index, Material currently
-    doesn't support this setting as the default search behavior of the original
-    theme was heavily modified for the sake of a better UX. Integration is
-    possible, but a small subset of the features Material provides will not be
-    portable to the prebuilt index mainly due to missing localization.
-
-!!! info "Call for Contributions: Add languages/translations to Material"
-
-    Help translate Material into more languages - it's just **one click** and
-    takes approximately **2 minutes**: [click here](http://bit.ly/2EbzFc8)
-
-
-## [Hitting](/hitting/avg/)
-
-Common baseball [hitting statistics](/hitting/avg/) with formulas, definitions, and factoids.
-
-## [Pitching](/pitching/era/)
-
-Common baseball [pitching statistics](/pitching/era/) with formulas, definitions, and factoids.
-
-## [Baserunning](/baserunning/sbp/)
-
-Common baseball [baserunning statistics](/baserunning/sbp/) with formulas, definitions, and factoids.
-
-## Quotes
-
-!!! quote "Mickey Mantle"
-    "It's unbelievable how much you don't know about the game you've been playing all your life."
-
-!!! quote "Jacques Barzun"
-    "Whoever wants to know the heart and mind of America had better learn baseball."
-
-!!! quote "Moneyball"
-    "It's hard not to be romantic about baseball."
--->

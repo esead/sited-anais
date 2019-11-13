@@ -1,5 +1,5 @@
 
-# Autores 
+# **Comissão Organizadora** 
 
 <style>
 
@@ -62,35 +62,37 @@ img {
 
 
 </style>
-
 <center> 
-<div class="card">
-	<center> 
-  <img src="../imagens/odair.png" alt="Avatar" style="width:40%">
-    </center>
-  <div class="container">
-    <h4 align="center"><b>Oldair Vinhas Costa</b></h4> 
-    <p><button class="button"><a href="http://lattes.cnpq.br/0146226390364619" target="_blank"><span style="color:#FFF"> Lattes </a></span></button></p> 
-  </div>
-</div>
+
+<p>Anais</p>
+
+<p>II Simpósio Internacional de Tecnologias e
+Educação Digital</p>
+
+<p><strong>Comissão Organizadora:</strong></p>
+
+
+<p>Adilson Gomes dos Santos</p>
+<p>Agessandro Azevedo de Souza</p>
+<p>Alberto Roque Cerqueira de Azevedo</p>
+<p>Carlos André Lima de Matos</p>
+<p>Cíntia Mota Cardeal</p>
+<p>Eniel do Espírito Santo</p>
+<p>Eleazar Gerardo Madriz Lozada</p>
+<p>Gilvan Silva dos Santos</p>
+<p>Joseane da Conceição Pereira Costa</p>
+<p>Jonatas de Freitas</p>
+<p>Lailson Brito dos Santos</p>
+<p>Luiz Artur dos Santos da Silva</p>
+<p>Raví Oliveira dos Santos</p>
+<p>Sabrina Carvalho Machado</p>
+<p>Victor Coutinho Santos</p>
+
+
 </center> 
 
 
-<center> 
-<div class="card">
-	<center> 
-  <img src="../imagens/marcelo.gif" alt="Avatar" style="width:40%">
-    </center>
-  <div class="container">
-    <h4 align="center"><b>Marcelo Henrique Siqueira de Araújo</b></h4> 
-    <p><button class="button"><a href="http://lattes.cnpq.br/1553852645715337" target="_blank"><span style="color:#FFF"> Lattes </a></span></button></p> 
-  </div>
-</div>
-</center> 
 
-
-<center><h2><strong>Leitura de Ambientes da Mineração</strong></h2></center>
 <center>Cruz das Almas - BA </center>
-<center>2018 </center>
-
+<center>2019 </center>
 
