@@ -105,7 +105,7 @@ img {
 
 <div id="example3">
 
-  <h1> II Simpósio de Tecnologias para Educação Digital - Anais </h1>
+  <h1> II Simpósio Internacional de Tecnologias e Educação Digital - Anais</h1>
 
 
 <center> 
