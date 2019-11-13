@@ -1,7 +1,7 @@
 
 ![Legenda](../img/capitulo.png)
 
-## **O USO DO BLOG COMO METODOLOGIA DE ENSINO E APRENDIZAGEM EM UM CURSO TÉCNICO**
+# **O USO DO BLOG COMO METODOLOGIA DE ENSINO E APRENDIZAGEM EM UM CURSO TÉCNICO**
 
 <style>
 p.combinado:first-letter { 
@@ -33,15 +33,6 @@ tornou-me mais dinâmico, eficaz e construído de forma coletiva e colaborativa.
 </p>
 
 
-<p style="text-align: justify;">
-Das diferentes atividades desenvolvidas pelo homem, a Mineração, de acordo com Damasceno
-(2017) e Almeida Jr. (2017), é uma atividade extremamente importante e positiva para economia
-e desenvolvimento social, por se constituir em um dos setores básicos da economia do país, que
-contribui de forma decisiva para o bem-estar e a melhoria da qualidade de vida das presentes
-e futuras gerações, sendo fundamental para o desenvolvimento de uma sociedade equânime.
-Entretanto ao longo dos anos e até hoje é vista como uma atividade exclusivamente extrativa e
-geradora de danos socioambientais.
-</p>
 
 ### **1. Introdução**
 

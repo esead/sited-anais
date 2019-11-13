@@ -19,7 +19,7 @@ pages:
     - 'Eixo I': ii-sited-anais/eixo-1.md
     - 'Trabalho 1': ii-sited-anais/trabalho-1.md
     - 'Trabalho 2': ii-sited-anais/trabalho-2.md
-    - 'Trabalho 3': ii-sited-anais/trabalho-3.md
+    - 'Uso do Audiovisual como Metodologia de Ensino na Educação Básica': ii-sited-anais/trabalho-3.md
     - 'Capa fundo': ii-sited-anais/capa-fundo.md
 theme:
   name: 'material'
