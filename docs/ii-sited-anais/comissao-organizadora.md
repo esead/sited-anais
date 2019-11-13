@@ -64,21 +64,22 @@ img {
 </style>
 <center> 
 
-<p>Anais</p>
 
-<p>II Simpósio Internacional de Tecnologias e
+<p>Universidade Federal do Recôncavo da Bahia</p>
+<p>Superintendência de Educação Aberta e Digital</p>
+<p>Anais - II Simpósio Internacional de Tecnologias e
 Educação Digital</p>
 
-<p><strong>Comissão Organizadora:</strong></p>
+<p><strong>Organizadores</strong></p>
+<p>Adilson Gomes dos Santos</p>
+<p>Eniel do Espírito Santo</p>
 
-
+<p><strong>Equipe SEAD</strong></p>
 <p>Adilson Gomes dos Santos</p>
 <p>Agessandro Azevedo de Souza</p>
 <p>Alberto Roque Cerqueira de Azevedo</p>
 <p>Carlos André Lima de Matos</p>
-<p>Cíntia Mota Cardeal</p>
 <p>Eniel do Espírito Santo</p>
-<p>Eleazar Gerardo Madriz Lozada</p>
 <p>Gilvan Silva dos Santos</p>
 <p>Joseane da Conceição Pereira Costa</p>
 <p>Jonatas de Freitas</p>

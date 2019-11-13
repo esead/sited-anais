@@ -1,7 +1,7 @@
 
 ![Legenda](../img/capitulo.png)
 
-# **O USO DO BLOG COMO METODOLOGIA DE ENSINO E APRENDIZAGEM EM UM CURSO TÉCNICO**
+## **O USO DO BLOG COMO METODOLOGIA DE ENSINO E APRENDIZAGEM EM UM CURSO TÉCNICO**
 
 <style>
 p.combinado:first-letter { 
@@ -158,9 +158,10 @@ primeiro módulo (em agosto de 2016), porém só foi concretizada durante o segu
 as postagens fossem feitas durante as aulas ou em casa, quando deparavam-se com informações
 novas, curiosidades, <em>hiperlinks</em> para eventos, dicas de saúde, etc.</p>
 
-
+<!--
 <blockquote style="color: #000">
 .</blockquote>
+-->
 
 <p style="text-align: justify;">
 A estrutura do blog foi dividida em 5 partes: “Página Inicial”, “Eventos”, “Educação e Promoção

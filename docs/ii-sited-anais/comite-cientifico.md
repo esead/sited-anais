@@ -64,12 +64,11 @@ img {
 </style>
 
 <center> 
-<p>Universidade Federal do Recôncavo da Bahia</p>
-Superintendência de Educação Aberta e Digital
-<p>Anais do II Simpósio Internacional de Tecnologias e
+
+<p>Anais - II Simpósio Internacional de Tecnologias e
 Educação Digital</p>
 
-<p><strong>Comitê Científico:</strong></p>
+<p><strong>Comitê Científico</strong></p>
 
 
 <p>Dr. Adriano Dantas de Oliveira (UFRB)</p>
@@ -85,7 +84,7 @@ Educação Digital</p>
 
 </center> 
 
-
+<p> </p>
 
 <center>Cruz das Almas - BA </center>
 <center>2019 </center>

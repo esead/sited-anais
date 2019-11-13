@@ -1,8 +1,7 @@
 
 ![Legenda](../img/capitulo.png)
 
-# **FORMAÇÃO ONLINE DE PROFESSORES: ANÁLISE DA ORGANIZAÇÃO
-DIDÁTICO-PEDAGÓGICA-TECNOLÓGICA DE UMA LICENCIATURA NA EAD**
+## **FORMAÇÃO ONLINE DE PROFESSORES: ANÁLISE DA ORGANIZAÇÃO DIDÁTICO-PEDAGÓGICA-TECNOLÓGICA DE UMA LICENCIATURA NA EAD**
 
 <center>ONLINE TEACHER TRAINING: ANALYSIS OF THE
 DIDACTIC-PEDAGOGICAL-TECHNOLOGICAL ORGANIZATION OF A LICENSE IN EAD</center>
@@ -42,30 +41,6 @@ particularidades da prática de ensino.
 Curso; Tecnologia de Informação e Comunicação Digital.
 </p>
 
-### **Abstract**
-
-<p style="text-align: justify;">
-The present investigation is the result of a documentary research with a qualitative approach that
-aims to discuss the initial online training proposals for Mathematics Teachers, through the analysis of
-the Pedagogical Project of the Course (PPC) and Information Technology and Digital Communication
-(TICD ) of the course in degree in Mathematics in the modality Education to Distance (EaD),of a
-Federal Public University in partnership with the Open University of Brazil (UAB). For the constitution
-of the data, the articulation between areas exposed to the PPC, the curricular components that
-make up the didactic nucleus and the Virtual Learning Environment (AVA) of the course, having as
-a theoretical contribution authors that approach the themes investigated. Through the analyzes, it
-was observed that the adopted platform potentiates print and digital media as a didactic material
-that seeks to bring learners closer to a real classroom to cybercultural processes. In addition, it
-can be seen that the curricular structure includes representations that the future students need to
-acquire the specific knowledge of mathematics, the broad vision of the pedagogical knowledge and
-the particularities of the teaching practice.
-</p>
-
-
-
-<p style="text-align: justify;">
-<strong>Keywords</strong>: Online Initial Training; Teachers of Mathematics; Pedagogical Projects of the Course;
-Information Technology and Digital Communication.
-</p>
 
 ### **1. Introdução**
 
