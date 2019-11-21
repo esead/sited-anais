@@ -1,6 +1,13 @@
 
 ![Legenda](../img/capitulo.png)
 
+<center>
+<audio controls>
+  <source src="../audio/voice5.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+</center>
+
 # **O USO DO BLOG COMO METODOLOGIA DE ENSINO E APRENDIZAGEM EM UM CURSO TÉCNICO**
 
 <style>
