@@ -17,10 +17,12 @@ pages:
     - 'Comitê Científico': ii-sited-anais/comite-cientifico.md
     - 'Licença': ii-sited-anais/creative-commons.md
     - 'Eixo I': ii-sited-anais/eixo-1.md
-    - 'Trabalho 1': ii-sited-anais/trabalho-1.md
-    - 'Trabalho 2': ii-sited-anais/trabalho-2.md
-    - 'Uso do Audiovisual como Metodologia de Ensino na Educação Básica': ii-sited-anais/trabalho-3.md
-    - 'Capa fundo': ii-sited-anais/capa-fundo.md
+    - 'Capítulo 1': ii-sited-anais/capitulo-1.md
+    - 'Capítulo 2': ii-sited-anais/capitulo-2.md
+    - 'Capítulo 3': ii-sited-anais/capitulo-3.md
+    - 'Capítulo 4': ii-sited-anais/capitulo-4.md
+    - 'Capítulo 5': ii-sited-anais/capitulo-5.md
+    - 'Capa fundo': ii-sited-anais/capitulo-fundo.md
 theme:
   name: 'material'
   language: 'pt'
