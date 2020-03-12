@@ -20,6 +20,8 @@ p.combinado:first-letter {
 
 <center><h3><em>Jader Luís da Silveira</em></h3></center>
 
+Estamos fazendo uma alteração para reativar esse trabalho!
+
 
 ### **Resumo**
 <p style="text-align: justify;">
